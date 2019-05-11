@@ -71,7 +71,7 @@
         ?>
     </table>
 
-    
+    <h6>Latihan praktikum join</h6>
 </body>
 
 
