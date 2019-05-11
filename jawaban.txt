@@ -1,0 +1,6 @@
+5.
+- Left Join, cara menghubungkan tabel dengan menampilkan semua data pada tabel kiri walaupun tidak ada hubungannya dengan kanan, sehingga data yang tidak ada hubungannya akan bernilai null
+
+- Right Join, cara menghubungkan tabel dengan menampilkan semua data pada tabel kanan walaupun tidak ada hubungannya dengan tabel kiri, sehingga data yang tidak ada hubungannya dengan kiri akan bernilai null
+
+- inner join, menampilkan semua data yang mempunya nilai key sama, antara tabel kanan dan kiri
